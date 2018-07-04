@@ -1,2 +1,6 @@
 # folder for course files
 100daysofcode-with-python-course/
+
+# misc folders
+.idea/
+.ipynb_checkpoints/
