@@ -1,0 +1,16 @@
+[
+  "test_app.py::test_get_all_items",
+  "test_app.py::test_get_single_good_item",
+  "test_app.py::test_get_single_bad_item",
+  "test_app.py::test_create_item_good",
+  "test_app.py::test_create_item_missing_name",
+  "test_app.py::test_create_item_missing_value",
+  "test_app.py::test_create_item_duplicate_name",
+  "test_app.py::test_create_item_incorrect_value",
+  "test_app.py::test_update_item_good",
+  "test_app.py::test_update_item_incorrect_id",
+  "test_app.py::test_update_item_incorrect_content_type",
+  "test_app.py::test_update_item_incorrect_value_type",
+  "test_app.py::test_delete_item",
+  "test_app.py::test_delete_item_incorrect_id"
+]
