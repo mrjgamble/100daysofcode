@@ -1,0 +1,15 @@
+[
+  "test_groceries.py::test_create_empty_cart",
+  "test_groceries.py::test_create_loaded_cart",
+  "test_groceries.py::test_add_item",
+  "test_groceries.py::test_add_item_duplicate",
+  "test_groceries.py::test_add_item_max_cravings",
+  "test_groceries.py::test_delete_item",
+  "test_groceries.py::test_search_item[banana-0]",
+  "test_groceries.py::test_search_item[water-1]",
+  "test_groceries.py::test_search_item[Apples-1]",
+  "test_groceries.py::test_search_item[apple-1]",
+  "test_groceries.py::test_search_item[le-2]",
+  "test_groceries.py::test_search_item[zZ-1]",
+  "test_groceries.py::test_search_item[e-5]"
+]
